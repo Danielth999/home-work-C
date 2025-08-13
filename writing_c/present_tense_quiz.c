@@ -46,7 +46,7 @@ int main() {
     if(answer == 1) score++;
     printf("เฉลย: rises\n\n");
 
-    printf("คุณได้คะแนน %d จาก 5 คะแนน\n", score);
+    printf("คุณได้คะแนน %d จาก 5 คะแนนจากทั้งหมด5ข้อ\n", score);
 
     return 0;
 }
