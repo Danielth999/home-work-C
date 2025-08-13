@@ -4,7 +4,7 @@ int main() {
     int score = 0, answer;
 
     printf("Present Tenses Quiz\n");
-    printf("เลือกคำตอบที่ถูกต้องที่สุด (พิมพ์เลขข้อที่ถูกต้อง)\n\n");
+    printf("เลือกคำตอบที่ถูกต้องที่สุดเพียง 1 ข้อ\n\n");
 
     // ข้อ 1
     printf("1. How often does Peter go to the swimming pool? – He _____ to the swimming pool every day. He likes swimming.\n");
